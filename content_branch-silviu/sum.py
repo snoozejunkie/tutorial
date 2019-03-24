@@ -5,4 +5,4 @@ b=2
 c=a+b
 print(c)
 
-print('FINISHED')
+print('FINISHED script')
