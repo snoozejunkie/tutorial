@@ -1,6 +1,1 @@
-# testing automatic pull via Jenkins
-Hi
-qwd
-QWED pls
-HIII
 NEW LINE
